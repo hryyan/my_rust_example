@@ -1,0 +1,4 @@
+[root]
+name = "match_destructuring_enums"
+version = "0.1.0"
+

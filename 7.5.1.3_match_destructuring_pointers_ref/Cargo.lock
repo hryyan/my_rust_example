@@ -1,0 +1,4 @@
+[root]
+name = "match_destructruing_pointers_ref"
+version = "0.1.0"
+

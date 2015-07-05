@@ -1,0 +1,4 @@
+[root]
+name = "match_destructuring_structs"
+version = "0.1.0"
+

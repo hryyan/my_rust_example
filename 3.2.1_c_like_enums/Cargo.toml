@@ -1,0 +1,4 @@
+[package]
+name = "c_like_enums"
+version = "0.1.0"
+authors = ["vincent19376 <vincent19376@gmail.com>"]
